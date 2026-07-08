@@ -72,7 +72,7 @@ During experimentation it was observed that the default PyTorch initialization p
 
 The Noam scheduler was also implemented and tested. However, on this small-scale educational setup, a fixed learning rate produced more stable training, so the scheduler was removed from the final version.
 
-Final training loss:
+Best training loss:
 
 ```text
 1.26
